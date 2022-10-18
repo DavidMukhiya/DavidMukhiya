@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-**DavidMukhiya/DavidMukhiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Welcome to my Github. My name is David Prakash Mukhiya. Right Now I am working as a Java full stack developer for genspark.** 
 
-Here are some ideas to get you started:
+<!-- -Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on [Food Delivery Platform](https://github.com/DavidMukhiya/food-delivery-platform).
 - 🌱 I’m currently learning Java Full stack Development. 
