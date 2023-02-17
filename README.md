@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on [Blog Application](https://github.com/DavidMukhiya/blog-application).
 <!-- -Here are some ideas to get you started: -->
 - 🔭 I’m currently working on [Food Delivery Platform](https://github.com/DavidMukhiya/food-delivery-platform).
-- 🌱 I’m currently learning Java Full stack Development, TypeScript and Angular.
+- 🌱 I’m currently learning Java Full stack Development, TypeScript and Angular.  -->
 - 📫 Connect with me on [Linkedin](https://www.linkedin.com/in/davidmukhiya/).
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
