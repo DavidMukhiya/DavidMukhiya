@@ -3,8 +3,8 @@
 
 **Welcome to my Github. My name is David Prakash Mukhiya. Right Now I am working as a Java full stack developer for genspark.** 
 
-🔭 I’m currently working on [Blog Application](https://github.com/DavidMukhiya/blog-application).
-🌱 I’m also improving my skill by learning new technology everyday. 
+- 🔭 I’m currently working on [Blog Application](https://github.com/DavidMukhiya/blog-application).
+- 🌱 I’m also improving my skill by learning new technology everyday. 
 
 <!-- -Here are some ideas to get you started:
 - 🔭 I’m currently working on [Food Delivery Platform](https://github.com/DavidMukhiya/food-delivery-platform).
